@@ -3,8 +3,6 @@
 
 ## :globe_with_meridians: Tecnologias
 
-## :globe_with_meridians: Tecnologias
-
 Esse projeto foi desenvolvido usando as seguintes tecnologias:
 
 <img  alt="HMTL5"
